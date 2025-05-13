@@ -1,7 +1,7 @@
 # Bringing down the House strategy
 A Blackjack szimulátor
 
-
+k
 
 ## Blackjack vagy más néven 21
 
